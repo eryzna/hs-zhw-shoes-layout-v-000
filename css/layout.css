@@ -27,6 +27,7 @@
   float: left;
   width: 31%;
   margin: 2%;
+  overflow: scroll;
 
 }
 
